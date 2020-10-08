@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Brush.png</file>
+    </qresource>
+</RCC>
